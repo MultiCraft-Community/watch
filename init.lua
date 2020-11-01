@@ -11,7 +11,7 @@ minetest.register_craft({
 	output = "watch:0",
 	recipe = {
 		{"", "default:gold_ingot", ""},
-		{"default:gold_ingot", "efault:mese_crystal_fragment", "default:gold_ingot"},
+		{"default:gold_ingot", "default:mese_crystal_fragment", "default:gold_ingot"},
 		{"", "default:gold_ingot", ""}
 	}
 })
